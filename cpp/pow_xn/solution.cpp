@@ -1,5 +1,5 @@
 /*
-Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
+    Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 */
 
 class Solution {
@@ -24,7 +24,6 @@ public:
 };
 
 #include <iostream>
-
 int main() {
 
     double x = 3.14;
